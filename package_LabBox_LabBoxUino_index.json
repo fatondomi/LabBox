@@ -1,0 +1,40 @@
+{
+    "packages":[
+        {
+            "name":"labbox",
+            "maintainer":"LabBox LLC",
+            "websiteURL":"labbox.education",
+            "email":"info@labbox.education",
+        
+            "platforms":[
+                {
+                    "name": "LabBoxUino",
+                    "architecture": "avr",
+                    "version": "1.0.1",
+                    "category": "Contributed",
+                    "help": {
+                      "online": "https://github.com/fatondomi/labbox"
+                    },
+                    "url": "https://raw.githubusercontent.com/fatondomi/labbox/master/README.md",
+                    "archiveFileName": "myboard-1.0.0.zip",
+                    "checksum": "SHA-256:ec3ff8a1dc96d3ba6f432b9b837a35fd4174a34b3d2927de1d51010e8b94f9f1",
+                    "size": "15005",
+                    "boards": [
+                      {"name": "LabBoxUino"},
+                    ],
+                    "toolsDependencies": [
+                      {
+                        "packager": "arduino",
+                        "name": "avr-gcc",
+                        "version": "4.8.1-arduino5"
+                      }
+                    ]
+                }
+            ],
+        
+            "tools":[
+        
+            ]
+        }
+    ]
+}
