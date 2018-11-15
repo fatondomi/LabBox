@@ -15,19 +15,16 @@
                     "help": {
                       "online": "https://github.com/fatondomi/labbox"
                     },
-                    "url": "https://raw.githubusercontent.com/fatondomi/labbox/master/README.md",
-                    "archiveFileName": "myboard-1.0.0.zip",
-                    "checksum": "SHA-256:ec3ff8a1dc96d3ba6f432b9b837a35fd4174a34b3d2927de1d51010e8b94f9f1",
-                    "size": "15005",
+                    "url": "https://github.com/fatondomi/LabBox/raw/master/1.6.19.zip",
+                    "archiveFileName": "1.16.19.zip",
+                    "checksum": "SHA-256:7F3D9E350E7E883C39FF2BFC5EC2A6EE57B6144D06018A5FA9BB56908954A960",
+                    "size": "14807",
                     "boards": [
-                      {"name": "LabBoxUino"},
+                      {"name": "LabBoxUino"}
                     ],
                     "toolsDependencies": [
-                      {
-                        "packager": "arduino",
-                        "name": "avr-gcc",
-                        "version": "4.8.1-arduino5"
-                      }
+                      {"packager": "arduino", "name": "avr-gcc", "version": "4.8.1-arduino5"},
+                      {"packager": "arduino", "name": "avrdude", "version": "6.0.1-arduino5"}
                     ]
                 }
             ],
