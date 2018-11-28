@@ -1,10 +1,10 @@
 {
-    "packages":[
+    "packages": [
         {
-            "name":"labbox",
-            "maintainer":"LabBox LLC",
-            "websiteURL":"http://labbox.education",
-            "email":"info@labbox.education",
+            "name": "labbox",
+            "maintainer": "LabBox LLC",
+            "websiteURL": "http://labbox.education",
+            "email": "info@labbox.education",
         
             "platforms":[
                 {
@@ -25,10 +25,7 @@
                     "toolsDependencies": []
                 }
             ],
-        
-            "tools":[
-        
-            ]
+            "tools": []
         }
     ]
 }
