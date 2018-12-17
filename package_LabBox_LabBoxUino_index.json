@@ -11,7 +11,7 @@
                     "name": "labboxuino",
                     "architecture": "avr",
                     "version": "1.6.19",
-                    "category": "Contributed",
+                    "category": "Arduino",
                     "help": {
                       "online": "https://github.com/fatondomi/labbox"
                     },
