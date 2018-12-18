@@ -6,7 +6,7 @@
             "websiteURL": "http://labbox.education",
             "email": "info@labbox.education",
         
-            "platforms":[
+            "platforms": [
                 {
                     "name": "labboxuino",
                     "architecture": "avr",
@@ -17,44 +17,12 @@
                     },
                     "url": "https://github.com/fatondomi/LabBox/raw/master/labboxuino-1.6.19.zip",
                     "archiveFileName": "labboxuino-1.6.19.zip",
-                    "checksum": "SHA-256:F15F044518D00C090C6F6ADC73622D5754B96CAFF2E1E4D6ESED5F4298FC7C5",
-                    "size": "1236351",
+                    "checksum": "SHA-256:028774304EOA756C22DC37C5EF316EOF267CC6A337C93DCCEF50504DD289139F",
+                    "size": "810509",
                     "boards": [
                       {"name": "LabBoxUino"}
                     ],
-                    "toolsDependencies":
-                    [
-                      {
-                        "packager": "arduino",
-                        "name": "arm-none-eabi-gcc",
-                        "version": "4.8.3-2014q1"
-                      },
-                      {
-                        "packager": "arduino",
-                        "name": "bossac",
-                        "version": "1.7.0"
-                      },
-                      {
-                        "packager": "arduino",
-                        "name": "openocd",
-                        "version": "0.9.0-arduino6-static"
-                      },
-                      {
-                        "packager": "arduino",
-                        "name": "CMSIS",
-                        "version": "4.5.0"
-                      },
-                      {
-                        "packager": "arduino",
-                        "name": "CMSIS-Atmel",
-                        "version": "1.1.0"
-                      },
-                      {
-                        "packager": "arduino",
-                        "name": "arduinoOTA",
-                        "version": "1.2.0"
-                      }
-                    ]
+                    "toolsDependencies": []
                 }
             ],
             "tools": []
