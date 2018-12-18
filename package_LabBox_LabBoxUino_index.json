@@ -17,8 +17,8 @@
                     },
                     "url": "https://github.com/fatondomi/LabBox/raw/master/labboxuino-1.6.19.zip",
                     "archiveFileName": "labboxuino-1.6.19.zip",
-                    "checksum": "SHA-256:7312237D7B6FBFB6A3CB78708ACC42CCDC6B609F9DE4E3DC7B57B6C954EE6DF9",
-                    "size": "142057",
+                    "checksum": "SHA-256:14631A9A7FA4237DCADE27B6AB7161AE63B6DDF968F442CDD4ABCE98F7239146",
+                    "size": "142657",
                     "boards": [
                       {"name": "LabBoxUino"}
                     ],
